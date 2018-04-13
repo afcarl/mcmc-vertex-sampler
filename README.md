@@ -5,7 +5,7 @@
 ```
 clean: make clean
 compile: make
-``
+```
 
 
 Please convert the input file into intended format: 
