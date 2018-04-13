@@ -1,0 +1,13 @@
+clean: make clean
+compile: make
+
+Please convert the input file into intended format: 
+Format:
+vertex_id_1 vertex_id_2  vertex_1_label edge_label vertex_2_label
+
+
+
+For efficiency, vertex label has to start from 1 and end at the maximum vertex id. 
+
+A converter (python file) is provided under undir_data directory. 
+
