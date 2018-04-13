@@ -5,6 +5,7 @@
 ```
 clean: make clean
 compile: make
+Usage: ./motifMiner-mcmc-undirected.out -d data-file -i iteration -s sizeOfSubgrah -step stepSize
 ```
 
 
